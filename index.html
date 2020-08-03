@@ -8,6 +8,11 @@
     <script src="./node_modules/simplemde/dist/simplemde.min.js"></script>
 </head>
 <body>
-    
+    <textarea name="my-textArea" id="my-textArea" cols="30" rows="10"></textarea>
+    <script>
+        let smde = new SimpleMDE({
+            element: document.querySelector('my-textArea')
+        })
+    </script>
 </body>
 </html>
