@@ -1,0 +1,19 @@
+{
+  "name": "editor-electron",
+  "version": "1.0.0",
+  "description": "editor de texto ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misanc21/editor-de-texto---electron.git"
+  },
+  "author": "misanc21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misanc21/editor-de-texto---electron/issues"
+  },
+  "homepage": "https://github.com/misanc21/editor-de-texto---electron#readme"
+}
